@@ -36,6 +36,7 @@ public class AddServlet extends HttpServlet {
 
         request.getRequestDispatcher("/selectAllServlet").forward(request,response);
 
+        System.out.println("hello");
 
 
 
