@@ -5,6 +5,7 @@ package com.itheima.pojo;
  */
 
 public class Brand {
+
     // id 主键
     private Integer id;
     // 品牌名称
